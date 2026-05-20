@@ -1,0 +1,11 @@
+Prompt base 1 - Definicion de agente
+"Actua como experto de negocio bancario. Ayudame a definir un agente con objetivo, usuarios, entradas, salidas y limites."
+
+Prompt base 2 - Mejora de respuesta
+"Reescribe esta respuesta para usuario no tecnico. Debe ser clara, breve, segura y con siguiente paso."
+
+Prompt base 3 - Handoff
+"Dame reglas de handoff entre agente FAQ, onboarding y fraude para mantener continuidad conversacional."
+
+Prompt base 4 - Pruebas
+"Genera 10 casos de prueba para validar precision y seguridad del agente en banca retail."

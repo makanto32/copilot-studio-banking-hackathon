@@ -1,0 +1,4 @@
+tipo_alerta,descripcion,accion_recomendada
+consumo_inusual,Compra no habitual por monto alto,Confirmar transaccion y bloquear temporalmente si no reconoce el consumo.
+geo_atipica,Transaccion en ubicacion no frecuente,Solicitar doble verificacion y validar dispositivo.
+multiples_intentos,Varios intentos fallidos de autenticacion,Forzar cambio de clave y derivar a soporte de seguridad.
