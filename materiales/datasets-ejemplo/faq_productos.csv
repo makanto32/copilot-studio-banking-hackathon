@@ -1,4 +1,21 @@
 categoria,pregunta,respuesta_referencia
 cuenta_ahorros,Que requisitos necesito para abrir una cuenta?,Documento de identidad vigente y validacion basica de datos.
+cuenta_ahorros,Cuanto cobra la cuenta de ahorros por manejo?,Depende del plan contratado; revise tarifario vigente en canales oficiales.
+cuenta_ahorros,Como activo mi cuenta de ahorros nueva?,Complete la validacion de identidad y realice su primer deposito.
+cuenta_ahorros,Puedo abrir una cuenta siendo extranjero?,Si, con documento migratorio valido y requisitos de cumplimiento.
+cuenta_ahorros,Como cambio los topes de transferencia?,Desde app o banca web en seguridad y limites de transferencias.
 tarjeta_credito,Como aumento mi cupo?,Puede solicitar evaluacion de cupo desde la app o con un asesor.
+tarjeta_credito,Como difiero una compra a cuotas?,Desde su app en movimientos o llamando a la linea de atencion.
+tarjeta_credito,Que pasa si pago solo el minimo?,Se generan intereses sobre el saldo restante segun la tasa vigente.
+tarjeta_credito,Como reporto una compra no reconocida?,Bloquee temporalmente la tarjeta y registre el reclamo por fraude.
+tarjeta_credito,Como solicito una tarjeta adicional?,Solicitela en la app o sucursal con validacion del titular principal.
 prestamo,Como consulto el estado de mi solicitud?,Ingrese a su banca digital y revise el modulo de prestamos.
+prestamo,Cuales son los requisitos para un prestamo personal?,Documento vigente, historial crediticio y soporte de ingresos.
+prestamo,En cuanto tiempo desembolsan un prestamo aprobado?,El tiempo varia por producto; normalmente entre 24 y 72 horas habiles.
+prestamo,Puedo hacer abonos extraordinarios sin penalidad?,Depende del contrato; revise clausulas de prepago de su producto.
+prestamo,Como obtengo el paz y salvo de mi prestamo?,Solicitelo por canales digitales o en sucursal al cancelar la deuda.
+canales_digitales,Como recupero mi clave de banca digital?,Use la opcion Olvide mi clave y complete validacion de seguridad.
+canales_digitales,Como activo notificaciones de movimientos?,En la app, habilite alertas push y SMS desde configuracion.
+canales_digitales,Que hago si la app no me deja ingresar?,Actualice la app, verifique internet y restablezca credenciales si aplica.
+seguridad,Que datos nunca me pedira el banco?,Nunca solicitamos PIN completo, clave dinamica ni token por chat.
+seguridad,Como bloqueo mis productos por perdida o robo?,Desde la app en bloqueo inmediato o llamando a la linea 24/7.
