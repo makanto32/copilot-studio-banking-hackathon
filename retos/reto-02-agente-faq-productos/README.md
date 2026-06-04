@@ -38,7 +38,7 @@ Construir un agente en Copilot Studio que responda preguntas frecuentes sobre pr
 - "Que es..." (conceptos simples).
 
 ### Paso 2: Crear el agente en Copilot Studio (30 minutos)
-1. Abre Copilot Studio desde este enlace: [Sign in to your account](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=96ff4394-9197-43aa-b393-6a41652e21f8&scope=openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fcopilotstudio.microsoft.com%2Fauth&client-request-id=3ed79b9f-1a00-4092-989c-67f446f26f85&response_mode=fragment&client_info=1&clidata=1&nonce=019e9011-16b6-7686-b898-8f1b4ef17619&state=eyJpZCI6IjAxOWU5MDExLTE2YjYtN2E4NC05ZmExLWI2NDc2ZWRkMjQxNiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&x-client-SKU=msal.js.browser&x-client-VER=5.6.3&response_type=code&code_challenge=oBDQF2SJ8eolDAjk9x5UUETtDm-4clVP8PGfV2BYYLU&code_challenge_method=S256)
+1. Abre Copilot Studio desde este enlace: [https://copilotstudio.microsoft.com/environments/~personal/home](https://copilotstudio.microsoft.com/environments/~personal/home)
 2. Clickea "+ New copilot".
 3. Nombre: `AgenteFAQProductos` (sin espacios).
 4. Descripcion: `Asistente FAQ para resolver dudas de productos bancarios y escalar a asesor cuando sea necesario`.
